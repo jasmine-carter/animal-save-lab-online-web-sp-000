@@ -16,3 +16,10 @@ html {
     right: 0;
   }
 }
+@media screen and (max-width: 1033px) {
+  #ostrich {
+    position: fixed;
+    top: -75px;
+    right: 0;
+  }
+}
