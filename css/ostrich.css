@@ -19,7 +19,7 @@ html {
 @media screen and (max-width: 1033px) {
   #ostrich {
     position: fixed;
-    top: -75px;
+    top: -55px;
     right: 0;
   }
 }
