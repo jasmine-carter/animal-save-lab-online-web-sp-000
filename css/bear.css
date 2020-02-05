@@ -10,10 +10,9 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (max-width: 1190px) {
+@media only screen and (max-width: 150) {
   #bear {
-    position: absolute;
-    top: 100px;
-    right: 30px;
+    position: initial;
+
   }
 }
