@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media screen and (min-width: 385px) {
+@media screen and (max-width: 385px) {
   #bear {
     position: fixed;
 
