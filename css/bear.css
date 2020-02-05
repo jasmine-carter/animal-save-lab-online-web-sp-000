@@ -13,6 +13,8 @@ html {
 @media screen and (max-width: 385px) {
   #bear {
     position: fixed;
+    top:100px;
+    right: auto;
 
   }
 }
