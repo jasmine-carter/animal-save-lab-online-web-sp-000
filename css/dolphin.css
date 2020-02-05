@@ -19,7 +19,7 @@ html {
 }
 
 /* Write your solution here */
-@media screen and (min-width: 1090px) {
+@media screen and (max-width: 1090px) {
   #dolphin {
     position: fixed;
     top: -100px;
